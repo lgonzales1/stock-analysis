@@ -17,13 +17,21 @@ Between 2017 and 2018, all but three companies varied in their return. Only one 
 
 The purpose of refractoring the code was to improve run-time. I confirmed that refractoring decreased the run-time by 82% for 2018 and 72% for 2017. 
 
-Original Run Time for 2017 (0.5546875 s)
+*Original Run Time for 2017 (0.5546875 s)*
 
-Refractored Run Time for 2017 (0.15625 s)
+![alt text](https://raw.githubusercontent.com/lgonzales1/stocks-analysis/main/VBA_Challenge_2017_original.png)
 
-Original Run Time for 2018 (0.5742188 s)
+*Refractored Run Time for 2017 (0.15625 s)*
 
-Refractored Run Time for 2018 (0.1054688 s)
+![alt text](https://raw.githubusercontent.com/lgonzales1/stocks-analysis/main/VBA_Challenge_2017_refractored.png)
+
+*Original Run Time for 2018 (0.5742188 s)*
+
+![alt text](https://raw.githubusercontent.com/lgonzales1/stocks-analysis/main/VBA_Challenge_2018_original.png)
+
+*Refractored Run Time for 2018 (0.1054688 s)*
+
+![alt text](https://raw.githubusercontent.com/lgonzales1/stocks-analysis/main/VBA_Challenge_2018_refractored.png)
 
 ## Summary
 
